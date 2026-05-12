@@ -1,0 +1,47 @@
+{
+  "name": "Text Diff Studio｜文本對比工具",
+  "short_name": "Text Diff",
+  "description": "支援 OpenCC 簡繁轉換、左右文本對比、差異標亮、行列顯示的網頁版文本對比工具。",
+  "start_url": "./text-diff-studio-opencc-v1.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8F5E9",
+  "theme_color": "#3A7D44",
+  "lang": "zh-Hant-TW",
+  "dir": "ltr",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "手機版文本對比工具介面"
+    },
+    {
+      "src": "./screenshot-desktop.png",
+      "sizes": "1440x900",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "桌面版文本對比工具介面"
+    }
+  ]
+}
